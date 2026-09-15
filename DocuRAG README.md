@@ -1,4 +1,4 @@
-# 📄 DocuRAG — Intelligent PDF Question Answering System
+# 📄 AI-Powered Q&A using RAG
 
 **DocuRAG** is an AI-powered document question-answering system built using **Retrieval-Augmented Generation (RAG)**.
 
